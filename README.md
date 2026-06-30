@@ -96,18 +96,17 @@ This page highlights match-level analytics.
 ---
 
 ### 🏏 Team Performance
-![Team Performance](Images/team-performance.png)
+![Team Performance](Images/team-performance.png.png)
 
 ---
 
 ### 👤 Player Performance
-![Player Performance](Images/player-performance.png)
+![Player Performance](Images/player-performance.png.png)
 
 ---
 
 ### 📈 Match Insights
-![Match Insights](Images/match-insights.png)
----
+![Match Insights](Images/match-insights.png.png)
 
 # 📈 Key Business Insights
 
