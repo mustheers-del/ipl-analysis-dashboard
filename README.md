@@ -90,30 +90,23 @@ This page highlights match-level analytics.
 
 ---
 
-# 📸 Dashboard Preview
-
-## IPL Overview
-
+### 🏠 IPL Overview
 ![IPL Overview](Images/overview.png)
 
 ---
 
-## Team Performance
-
+### 🏏 Team Performance
 ![Team Performance](Images/team-performance.png)
 
 ---
 
-## Player Performance
-
+### 👤 Player Performance
 ![Player Performance](Images/player-performance.png)
 
 ---
 
-## Match Insights
-
+### 📈 Match Insights
 ![Match Insights](Images/match-insights.png)
-
 ---
 
 # 📈 Key Business Insights
