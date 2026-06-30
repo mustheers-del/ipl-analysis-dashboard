@@ -91,7 +91,7 @@ This page highlights match-level analytics.
 ---
 
 ### 🏠 IPL Overview
-![IPL Overview](Images/overview.png)
+![IPL Overview](Images/overview.png.png)
 
 ---
 
