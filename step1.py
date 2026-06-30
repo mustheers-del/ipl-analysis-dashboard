@@ -1,0 +1,13 @@
+import json
+import os
+
+print("Current Directory:", os.getcwd())
+
+file_path = "ipl_json/335982.json"
+
+with open(file_path, "r", encoding="utf-8") as f:
+    data = json.load(f)
+
+print(data.keys())
+
+os.listdir("ipl_json")
